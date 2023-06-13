@@ -88,7 +88,7 @@ def jahit_tiles(tiles, output_shape):
         tiles (dict): Dictionary yang berisi potongan-potongan gambar (tiles).
             Key: Koordinat (tuple) berisi (baris, kolom) dari tile.
             Value: Array gambar tile.
-        output_shape (tuple): Tuple berisi dimensi gambar lengkap yang diinginkan (tinggi, lebar, band).
+        output_shape (tuple): Tuple berisi dimensi gambar lengkap yang diinginkan (tinggi, lebar).
 
     Returns:
         numpy.ndarray: Array gambar lengkap yang telah digabungkan.
