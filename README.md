@@ -1,1 +1,1 @@
-# Vegetation prediction
+# Vegetation Prediction
